@@ -1,4 +1,16 @@
 # portfolio
+# FUTURE READY TALENT VIRTUAL INTERNSHIP PROJECT
+
+## PROJECT NAME - My Portfolio website hosted using static web app and assist the visitor using QnA maker azure Service.
+
+ - You can check working azure function app by this http trigger :- https://victorious-sky-0538ddc00.1.azurestaticapps.net
+
+## Resources used:
+   - Azure Bot Services
+   - Azure Resources
+   - Visual studio code
+   - Azure QnA Maker
+   - Azure Static Web App
 ## Problem Statement/Opportunity :
 - In this project i will face difficulty during crating my personal assistant bot service. this bot will help to the visitor, they will automatically guide easily without any difficulty. so it will take more to complete the project. however we can use cloud computing means like Azure service. they have inbuilt services so have to only connect. so we can easily complete our project work.
 - There are lots of opportunity over there i will know about bot services, hosting services machine learning etc.
