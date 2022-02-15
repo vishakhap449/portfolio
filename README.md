@@ -3,7 +3,7 @@
 
 ## PROJECT NAME - My Portfolio website hosted using static web app .
 
- - You can check working azure function app by this http trigger :- https://victorious-sky-0538ddc00.1.azurestaticapps.net
+ - You can check working azure function app by this http trigger :- https://salmon-plant-0a813d300.1.azurestaticapps.net
 
 ## Resources used:
    - Azure Resources
