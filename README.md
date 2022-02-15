@@ -1,7 +1,7 @@
 # portfolio
 # FUTURE READY TALENT VIRTUAL INTERNSHIP PROJECT
 
-## PROJECT NAME - My Portfolio website hosted using static web app and assist the visitor using QnA maker azure Service.
+## PROJECT NAME - My Portfolio website hosted using static web app .
 
  - You can check working azure function app by this http trigger :- https://victorious-sky-0538ddc00.1.azurestaticapps.net
 
@@ -52,14 +52,14 @@
 
 ###  Website look
 
-![](images/9.jpg)
+![](images/9.png)
 
 
-![](images/10.jpg)
+![](images/10.png)
 
 ### GITHUB REPO...
 
-![](images/11.jpg)
+![](images/11.png)
 
 
 # Thank You :)
